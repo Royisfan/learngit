@@ -2,8 +2,4 @@ Hello test
 demo
 d
 New branch
-<<<<<<< HEAD
 a b c
-=======
-a b c
->>>>>>> test
